@@ -3,7 +3,7 @@
 Download or play online at https://sfbarts.itch.io/concept-connect
 
 ## Summary
-Concept Connect is an educational game that has been created with the purpose of offering an engaging space that allows you to improve your cognitive abilities, especially your memory and concentration skills. It accomplishes this purpose by making the player connect two different cards that share the same concept. In this first edition, it focuses purely on artists and their works but it can be easily translated into other topics of interest. I decided to add the pictures of the artists as part of the game since we may have heard of them many times but probably won't be able to recognize any if they were next to us. It is a way of giving a face to the names we admire.
+Concept Connect is an educational game created with the purpose of offering an engaging space that allows you to improve your cognitive abilities, especially your memory and concentration skills. It accomplishes this purpose by making the player connect two different cards that share the same concept. In this first edition, it focuses purely on artists and their works but it can be easily translated into other topics of interest. I decided to add the pictures of the artists as part of the game since we may have heard of them many times but probably won't be able to recognize any if they were next to us. It is a way of giving a face to the names we admire.
 
 ## Game Mechanics
 Concept Connect counts with two different modes of play. A "learning mode" and a "normal mode". 
