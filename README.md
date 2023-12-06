@@ -71,9 +71,6 @@ Both play screens share the same core UI. Apart from the music and home buttons 
 
 ## Improvements Queue
 
-#### Important
-1. Fix bug in which all cards are shown face up at the end of a normal game right before the screen that records the record.
-
 #### Desirable
 1. Implement global scoreboard functionality.
 2. Implement topic selection.
